@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[前端书籍推荐]]></title>
+    <url>%2F2019%2F01%2F15%2Fweb-book%2F</url>
+    <content type="text"><![CDATA[JavaScript《JavaScript高级程序设计》入门级 推荐语： 详尽地解读了JS这门语言的各个组成部分，透彻地剖析了JS所涉及的编程思想，深入浅出地演示了丰富的JS应用实例…读完这本书你不一定就能成为前端大牛，但如果你真的能把这本书读懂，吃透，那么你离JS高手肯定不远啦！ 《编写可维护的JavaScript》入门级 推荐语： 乌龟书，很薄，但从工程实践的角度谈了常见的坑，其中的工作习惯值得coder们学习 《Javascript语言精粹》 蝴蝶书 推荐语： 集 JS 之精华，弃其糟粕，人手一本，前端必备 《锋利的jQuery》 入门级 推荐语： 前后台通用快速使用jQuery，必备良书。 《JavaScript DOM 编程艺术（第二版）》入门级 推荐语： 这本书的讲解方式非常亲切，人情味十足，初学者的福音。看完也能看看蝴蝶书。 《学习 JavaScript 数据结构与算法》入门级 推荐语： 很薄的一本书，很详细的讲解了使用js实现常用的数据结构和算法，对于更高效的使用js很有帮助。 《JavaScript 权威指南》 进阶级 推荐语： 这本书，我是十分推荐新手用作进阶阅读的。对于 JavaScript 新手入门来说，其实看什么书不重要，重要的是要能引起你兴趣使得你愿意动动手做做项目。在动手做过几个项目，对了 JavaScript 有了感性认识之后，你可能就会想要学习一些进阶内容，这时候《JavaScript 权威指南》就会成为最佳的选择。Ta的价值就在于，给予你工具的同时也通过示例告诉你什么情况下应该如何使用工具。 《JavaScript忍者秘籍》 进阶级 推荐语： 这本书是jQuery库创始人编写的一本深入剖析JavaScript语言的书 对JavaScript语言的重要部分（函数、闭包和原型）进行深入、全面的介绍，以及讲述跨浏览器代码如何编写 《高性能 JavaScript》进阶级 推荐语： 各种手段优化javascript 《ECMAScript 6 标准入门》进阶级 推荐语： 刘传宗：ES6让JavaScript如虎添翼，编程体验更佳，阮一峰前辈的力作 《Build Your Own AngularJS》进阶级 推荐语： 手把手教你撸出个angularjs框架，详细剖析原理和实现 《Effective JavaScript:编写高质量JavaScript代码的68个有效方法》进阶级 推荐语： 细说了编程中容易忽略的细枝末节！ 《你不知道的 JavaScript（上）》 进阶级 推荐语： 肯定没入门级的书让你成长的那么快，但是两本书（上册+下册）能让你更深入的理解 JS 机制，对项目有个良好的把控，推荐入门后的人看。详细的讲述了this，作用域，闭包，原型链等等，把js中比较难理解的部分用例子和通俗的语言讲解出来。 《单页Web应用：JavaScript 从前端到后端》进阶级 推荐语： 通过这本书的指引了解前后端如何一起构建一个单页应用，对前端来说，也能了解一些前端以外的东西 HTML5 &amp; CSS 《HTML5 与 CSS3 基础教程（第八版）》入门级 推荐语： 就是这本书把我带入前端的，非常适合初学前端的人看，浅显易懂，有配套代码！ 《深入浅出 HTML 与 CSS》入门级 推荐语： 纯小白的我第一次买的。懂了挺多。 《CSS揭秘》进阶级 推荐语： 这本书讲了很多CSS的技巧，看完之后你会拍着脑袋说原来CSS还有这么多你不知道的东西。 《HTML5 权威指南》进阶级推荐语： 系统、全面，没有高深的用法，比较简单，如果对应用要求一般，这本书的知识完全能够应付过来，辅佐以js语言精粹，完全足够 《CSS 权威指南》进阶级 推荐语： 本书适合自学过 CSS 的人但希望全面了解 CSS 的人阅读。由浅入深，全面易懂，不愧为权威指南。虽然内容有点儿老，但依然能够满足学习的需求。 综合类 《精通正则表达式》进阶级 推荐语： 全端通用技能必须get，看完后会感觉技能绝对上一个层次。]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>前端书籍</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F01%2F07%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>文档</tag>
+      </tags>
+  </entry>
+</search>
