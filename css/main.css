@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff6c;
+  background: #8cf146;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2973,7 +2973,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 .site-meta {
   background-color: #7c6c6d;
@@ -2984,8 +2984,11 @@ body {
 .post-meta-divider,
 .theme-info,
 .busuanzi-count {
-  color: #e6171b;
+  color: #7c6c6d;
+  font-weight: bold;
+  opacity: 1;
 }
 .back-to-top {
-  background-color: #e6171b;
+  background-color: #d20023;
+  opacity: 1;
 }
